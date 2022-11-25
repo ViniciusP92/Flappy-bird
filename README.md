@@ -1,2 +1,2 @@
 # Flappy-bird
-Projeto do jogo flappy bird feito com phyton
+Projeto do jogo flappy bird feito com python
